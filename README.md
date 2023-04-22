@@ -93,3 +93,5 @@ as above, you may just need to provide the 'multiCascader.checkedLeaves' to the 
 
 <img width="340" alt="image" src="https://user-images.githubusercontent.com/76041600/233779120-294e36e6-7249-4922-9719-325e41a55751.png">
 
+more details: 
+https://zhuanlan.zhihu.com/p/590854136
