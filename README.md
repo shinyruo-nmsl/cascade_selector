@@ -89,7 +89,7 @@ export default function ClazzInfo(prop: {
   )
 }
 ```
-as above, you may just need to provide the 'multiCascader.checkedLeaves' to the callback function, all the work have done in multiCascader. it works well:
+as above, you may just need to provide the 'multiCascader.checkedLeaves' to the callback function, all the work have done in 'multiCascader'. it works well:
 
 <img width="340" alt="image" src="https://user-images.githubusercontent.com/76041600/233779120-294e36e6-7249-4922-9719-325e41a55751.png">
 
