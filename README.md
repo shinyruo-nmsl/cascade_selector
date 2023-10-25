@@ -28,7 +28,7 @@ const option: Option<string> = {
   ],
 };
 ```
-then you can create a instace named 'multiCascader':
+then you can create a instance named 'multiCascader':
 ```typescript
 import { createMultiCascader, Option } from "./cascade";
 const multiCascader = createMultiCascader(option, []);
